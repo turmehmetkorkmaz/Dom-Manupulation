@@ -1,3 +1,5 @@
 //Session Storage- Key ve Value
 
-// proje deftere cozuldu
+// Session storage projesi deftere cozuldu
+// Local storage
+ 
